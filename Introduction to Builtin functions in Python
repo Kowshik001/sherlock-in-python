@@ -1,0 +1,53 @@
+Python has a rich set of built-in functions that provide essential functionality for working with various data types and performing common operations. Here are some brief notes about Python's built-in functions:
+
+1. `print()`: Used to display output to the console. It can print variables, strings, and expressions.
+
+2. `input()`: Allows user input from the console. It returns a string, so you may need to convert it to the desired data type.
+
+3. `len()`: Computes the length of a sequence, such as a string, list, or tuple.
+
+4. `type()`: Returns the data type of a given object.
+
+5. `int()`, `float()`, `str()`, `list()`, `tuple()`, `dict()`, `set()`: Functions for converting between different data types.
+
+6. `max()`, `min()`: Find the maximum and minimum values in an iterable or among arguments.
+
+7. `sum()`: Calculates the sum of elements in an iterable.
+
+8. `range()`: Generates a sequence of numbers within a specified range.
+
+9. `abs()`: Returns the absolute value of a number.
+
+10. `round()`: Rounds a number to a specified number of decimal places.
+
+11. `sorted()`: Returns a sorted version of an iterable, or sorts a list in place.
+
+12. `zip()`: Combines two or more iterables element-wise into tuples.
+
+13. `enumerate()`: Provides both the index and value of each item in an iterable.
+
+14. `map()`: Applies a function to each item in an iterable and returns a new iterable with the results.
+
+15. `filter()`: Filters elements from an iterable based on a given function's condition.
+
+16. `all()`, `any()`: Checks if all or any elements in an iterable evaluate to `True`.
+
+17. `sum()`: Calculates the sum of elements in an iterable.
+
+18. `open()`: Used for file input and output operations.
+
+19. `input()`: Reads user input from the console.
+
+20. `dir()`: Lists the attributes and methods of an object.
+
+21. `help()`: Displays documentation and information about an object or function.
+
+22. `eval()`: Evaluates a Python expression as a string.
+
+23. `locals()`, `globals()`: Return dictionaries representing the current local and global symbol tables.
+
+24. `chr()`, `ord()`: Convert between characters and their Unicode code points.
+
+25. `callable()`: Checks if an object can be called as a function.
+
+These are just some of the commonly used built-in functions in Python. Python's extensive standard library includes many more functions for various purposes, making it a powerful and versatile programming language.
